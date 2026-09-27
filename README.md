@@ -1,4 +1,5 @@
-## Hi there 👋
+## Studying, Working, Trying.
+## Olympiad programming
 
 <!--
 **Zoony-DV/Zoony-DV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
